@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jasmeetsinghbhatia/jasmeetsinghbhatia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://app.daily.dev/jasmeetsinghbha"><img src="https://api.daily.dev/devcards/e70fbeb7e1554fa8ac69145652c33708.png?r=77d" width="400" alt="Jasmeet Singh's Dev Card"/></a>
